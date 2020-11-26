@@ -57,6 +57,8 @@ body{
 }
 .ust1{
     margin-left: 108px;
+    font-weight: 700;
+    color:  hsl(229, 23%, 23%);
     
 }
 .ust1sag{
@@ -93,6 +95,8 @@ hr{
 }
 .altsag1{
     font-size: 18px;
+    font-weight: 700;
+    color:  hsl(229, 23%, 23%);
     margin-left: 13px;
 }
 .altsag11{
@@ -106,6 +110,8 @@ hr{
 .altsag2{
     font-size: 18px;
     margin-left: 13px;
+    font-weight: 700;
+    color:  hsl(229, 23%, 23%);
     }
 .altsag21{
     margin-left:13px;
@@ -116,6 +122,8 @@ hr{
 .altsag3{
     font-size: 18px;
     margin-left: 13px;
+    font-weight: 700;
+    color:  hsl(229, 23%, 23%);
 }
 .altsag31{
     margin-left:13px;
